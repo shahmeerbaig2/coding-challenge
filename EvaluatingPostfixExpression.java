@@ -62,7 +62,7 @@ int result=0;
 
 
     public static void main(String[] args) {
-        String expression = "3 4 + 2 *";
+        String expression = "- + 8 / 6 3 2";
         System.out.println(evaluatePostfix(expression));
     }
 
