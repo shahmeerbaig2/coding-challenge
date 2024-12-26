@@ -8,6 +8,7 @@ public class consectiveVowels {
             if (s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'o' || s.charAt(i) == 'u') {
                 count++;
             }
+            
         }
         System.out.println(count);
     }
